@@ -29,6 +29,4 @@ Technology: **C#, WinForms, Visual Studio**
 - `Design Docs_User.pdf` – user guide
 
 ## Additional analysis
-`Sale_RMarkdown.html`
-
-Example of sales data analysis using R.
+- `Sale_RMarkdown.html` - Example of sales data analysis using R.
