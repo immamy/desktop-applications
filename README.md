@@ -6,6 +6,6 @@ Technology: **C#, WinForms, Visual Studio**
 <br>
 Projects:
 
-• [group-ordering-system](https://github.com/immamy/desktop-applications/group-ordering-system.git)
+• [group-ordering-system](https://github.com/immamy/desktop-applications/tree/main/group-ordering-system)
 
-• [restaurant-management-system](https://github.com/immamy/desktop-applications/restaurant-management-system.git)
+• [restaurant-management-system](https://github.com/immamy/desktop-applications/tree/main/restaurant-management-system)
