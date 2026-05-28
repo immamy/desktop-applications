@@ -1,4 +1,4 @@
-# Desktop-Applications
+# Desktop Applications
 These projects focus on desktop application development using C# WinForms.
 
 Technology: **C#, WinForms, Visual Studio**
