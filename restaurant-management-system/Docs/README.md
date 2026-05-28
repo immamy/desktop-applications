@@ -16,8 +16,8 @@
 |--------|----------|
 | `listView_Cooking廚房表格` | read from `Cooking.txt` |
 | `listView_Delivery送餐表格` | read from `Delivery.txt` |
-| `button_Cooking已製作按鈕` | Select Specify data from `listView_Cooking送餐表格`, and modify data in `Cooking.txt` |
-| `button_Delivery已送達按鈕` | Select Specify data from `listView_Delivery廚房表格`, and modify data in `Delivery.txt` |
+| `button_Cooking已製作按鈕` | Select Specify data from `listView_Cooking廚房表格`, and modify data in `Cooking.txt` |
+| `button_Delivery已送達按鈕` | Select Specify data from `listView_Delivery送餐表格`, and modify data in `Delivery.txt` |
 
 <br>
 
@@ -49,4 +49,4 @@
 |--------|----------|
 | `comboBox_Year年份選項` | read from `Sale.txt` |
 | `comboBox_Category商品類別選項` | read from `Sale.txt` |
-| `chart1圖表` |  |
+| `chart1圖表` | data from `Sale.txt` |
