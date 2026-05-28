@@ -3,7 +3,7 @@
 ## Files
 | Pages | Files | database-write | database-read |
 |-------|-------|----------------|---------------|
-| LogIn / LogOut | `Form.cs`,`LogIn.cs` |  |  |
+| LogIn / LogOut | `Form1.cs`,`LogIn.cs` |  |  |
 | Order | `Order.cs` | `Consumption.txt` | `Deposit.txt`,`Restaurant.txt` |
 | Booking | `Booking.cs` | `Booking.txt`,`Order.txt` | `Restaurant.txt`,`Consumption.txt` |
 | Restaurant | `Restaurant.cs` | `Restaurant.txt` |  |
